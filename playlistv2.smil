@@ -15,24 +15,7 @@
             <seq repeatCount="indefinite"> <video
                     src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716559530/samples/MS-SAFETY/T2S_-_V%C3%AAtements_haute_visibilit%C3%A9_T2S___S%C3%A9lection_%C3%89T%C3%89_ir7y9c.mp4"
                     region="main"></video>
-		<video
-                    src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1671807926/samples/MS-SAFETY/JSP_-_SONIS_hpgyet.mp4"
-                    region="main"></video>
-                    <video
-                    src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1671807922/samples/MS-SAFETY/JSP_-_PRESS_TO_CHECK_o8hnjf.mp4"
-                    region="main"></video>
-                    <video
-                    src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1671807919/samples/MS-SAFETY/DIADORA_-_RUN_NET_AIRBOX_smfsnr.mp4"
-                    region="main"></video>
-                    <video
-                    src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1671807913/samples/MS-SAFETY/JSP_-_FIXATION_CAPE_ozto55.mp4"
-                    region="main"></video>
-                    <video
-                    src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1671807920/samples/MS-SAFETY/JSP_-_FIXATION_EVOSPEC_y5mjhb.mp4"
-                    region="main"></video>
-                    <img dur="5s"
-                    src="https://res.cloudinary.com/dpenpn5mc/image/upload/v1671808413/samples/MS-SAFETY/LOGO_35_POUR_FOND_BLEU_OU_NOIR_vuoszz.png"
-                    region="main"></img> </seq>
+		 </seq>
         </par>
     </body>
 </smil>
