@@ -12,10 +12,7 @@
     <body>
         <par>
             <!-- define what should be played in regions -->
-            <seq repeatCount="indefinite"> <video
-                    src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716559530/samples/MS-SAFETY/T2S_-_V%C3%AAtements_haute_visibilit%C3%A9_T2S___S%C3%A9lection_%C3%89T%C3%89_ir7y9c.mp4"
-                    region="main"
-		   soundLevel="100%" ></video>
+            <seq repeatCount="indefinite">
            
            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716901745/samples/MS-SAFETY/video%20safety/BOLLE_-_New_TRYON_range___style_and_performance_comes_in_3_versions_gvvffd.mp4"
                     region="main"
