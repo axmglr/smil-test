@@ -12,7 +12,7 @@
     <body>
         <par>
             <!-- define what should be played in regions -->
-            <seq repeatCount="indefinite">
+            <seq>
            
            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716901745/samples/MS-SAFETY/video%20safety/BOLLE_-_New_TRYON_range___style_and_performance_comes_in_3_versions_gvvffd.mp4"
                     region="main"
