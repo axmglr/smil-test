@@ -12,7 +12,7 @@
     <body>
         <par>
             <!-- define what should be played in regions -->
-            <seq>
+            <seq repeatCount="indefinite">
 
             <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716903264/samples/MS-SAFETY/video%20safety/JSP_-_FORESTERY_v5xty6.webm"
                     region="main"
