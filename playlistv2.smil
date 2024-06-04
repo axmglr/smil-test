@@ -13,7 +13,11 @@
         <par>
             <!-- define what should be played in regions -->
             <seq>
-           
+
+            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716903264/samples/MS-SAFETY/video%20safety/JSP_-_FORESTERY_v5xty6.webm"
+                    region="main"
+		   soundLevel="100%" ></video>
+
            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716901745/samples/MS-SAFETY/video%20safety/BOLLE_-_New_TRYON_range___style_and_performance_comes_in_3_versions_gvvffd.mp4"
                     region="main"
 		   soundLevel="100%" ></video>
@@ -34,11 +38,6 @@
                     region="main"
 		   soundLevel="100%" ></video>
 
-
-
-        <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716903264/samples/MS-SAFETY/video%20safety/JSP_-_FORESTERY_v5xty6.webm"
-                    region="main"
-		   soundLevel="100%" ></video>
 
            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716903570/samples/MS-SAFETY/video%20safety/LAFONT_-_Work_Attitude_250_Up_Lafont_shqefg.mp4"
                     region="main"
