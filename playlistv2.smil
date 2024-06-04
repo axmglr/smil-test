@@ -1,18 +1,4 @@
-<smil>
-
-    <head>
-        <meta http-equiv="Refresh" content="60" expr="adapi-weekday()=4" />
-        <layout>
-            <root-layout width="1920" height="1080" backgroundColor="#FFFFFF" /> <!-- define regions/zones -->
-            <region regionName="main" left="0" top="0" width="1920" height="1080" z-index="1"
-                backgroundColor="#FFFFFF" />
-        </layout>
-    </head>
-
-    <body>
-        <par>
-            <!-- define what should be played in regions -->
-            <seq repeatCount="indefinite">
+<seq repeatCount="indefinite">
 
 <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716901745/samples/MS-SAFETY/video%20safety/BOLLE_-_New_TRYON_range___style_and_performance_comes_in_3_versions_gvvffd.mp4"
                     region="main"
@@ -58,6 +44,3 @@
         
 
 		 </seq>
-        </par>
-    </body>
-</smil>
