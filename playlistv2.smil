@@ -1,7 +1,6 @@
 <smil>
 
     <head>
-        <meta http-equiv="Refresh" content="60" expr="adapi-weekday()=4" />
         <layout>
             <root-layout width="1920" height="1080" backgroundColor="#FFFFFF" /> <!-- define regions/zones -->
             <region regionName="main" left="0" top="0" width="1920" height="1080" z-index="1"
