@@ -13,6 +13,12 @@
 
 <seq repeatCount="indefinite">
 
+
+<video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1/samples/MS-SAFETY/Journ%C3%A9e_de_la_s%C3%A9curit%C3%A9_CGSS_2024_bxq4gx.mp4?_s=vp-2.0.2"
+                    region="main"
+		   soundLevel="100%" ></video>
+
+
  <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716904516/samples/MS-SAFETY/video%20safety/ALVIS_-_FILM_MK4_maquette_ld3_kepyn4.mp4"
                     region="main"
 		   soundLevel="100%" ></video>
