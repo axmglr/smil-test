@@ -13,6 +13,10 @@
 
 <seq repeatCount="indefinite">
 
+ <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716904516/samples/MS-SAFETY/video%20safety/ALVIS_-_FILM_MK4_maquette_ld3_kepyn4.mp4"
+                    region="main"
+		   soundLevel="100%" ></video>
+
 <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716903264/samples/MS-SAFETY/video%20safety/JSP_-_FORESTERY_v5xty6.webm"
                     region="main"
 		   soundLevel="100%" ></video>
@@ -50,11 +54,6 @@
            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716904346/samples/MS-SAFETY/video%20safety/BE_ATEX_-_VIDEO_M20_2_EN_mncwsq.mp4"
                     region="main"
 		   soundLevel="100%" ></video>
-
-            <video src="https://res.cloudinary.com/dpenpn5mc/video/upload/v1716904516/samples/MS-SAFETY/video%20safety/ALVIS_-_FILM_MK4_maquette_ld3_kepyn4.mp4"
-                    region="main"
-		   soundLevel="100%" ></video>
-        
 
 		 </seq>
 
